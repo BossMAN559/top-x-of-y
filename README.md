@@ -39,6 +39,8 @@ For local development:
 4. Start a server on `8088`. On a mac with Python installed this can be done with:
 
       `python -m SimpleHTTPServer 8088`
+      `python3 -m http.server 8088`
+      
 5. Open `localhost:8088` in your browser
 
 ## Privacy Policy
